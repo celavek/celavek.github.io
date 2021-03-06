@@ -1,8 +1,9 @@
 # Site settings
 name: Marius Cetateanu
 email: cetatzeanum+contact@gmail.com
+formurl: https://formspree.io/f/xvovjeon
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, C++, Python, Golang, Java, Machine Learning, Deep Learning, SIMD, TDD, Agile"
+keywords: "Senior Software Engineer, C++, Python, Golang, Java, Machine Learning, Deep Learning, SIMD, TDD, Agile, Backend, Parallelization"
 skills: "Senior Software Engineer in Brussels, Belgium"
 baseurl:
 
